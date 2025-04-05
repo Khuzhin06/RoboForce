@@ -1,3 +1,7 @@
+/**
+  Данный скетч предназначен для тестировки ваших энкодеров, определния направления моторов и теста на роботоспосбность вашей электронной схемы
+*/
+
 #define LEFT_MOTOR_A  19   // Цифровой выход (левый мотор). Если 0 - едем вперед
 #define LEFT_MOTOR_B  21 // Цифровой выход (левый мотор). Если 0 - едем назад
 #define RIGHT_MOTOR_A 18  // Цифровой выход (правый мотор). Если 0 - едем вперед
@@ -74,9 +78,5 @@ void loop() {
   Serial.print(" Left_encoder: "); Serial.print(left_encoder_value);
   Serial.print(" Right_encoder: "); Serial.print(right_encoder_value);
   Serial.println();
-   //analogWrite(LEFT_MOTOR_A,0);
- // analogWrite(LEFT_MOTOR_B,250); 
-  //analogWrite(RIGHT_MOTOR_A,250);
-  //analogWrite(RIGHT_MOTOR_B,0);
   delay(1000);
 }
