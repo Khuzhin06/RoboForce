@@ -168,26 +168,41 @@ https://aliexpress.ru/item/1005004954771161.html?spm=a2g2x.detail.rcmdprod.7.6d1
 Найдите на средней платформе посадочное место для шилда
 Вставьте снизу в платформу винты М2 (4шт) и накрутите на них гайки М2 (4шт). Данная конструкция не позволит передать находящиеся под шилдом провода  
 Установите на винты собранный шилд и закрепите его сверху гайками М2 (4шт)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/030c5e43-1274-4afe-9a40-431a16b0ff15)
 
 Установка блока питания 
 Найдите на средней платформе посадочное место для блока питания (средняя часть платформы) 
 Закрепите блок с помощью винтов М3 (2 шт) и гаек М3 (2шт)  (ВАЖНО: провода должны выходить в центральную часть платформы)
 ![image](https://github.com/user-attachments/assets/b63c3e8f-8db2-4674-855f-9d3161c8c713)
+![image](https://github.com/user-attachments/assets/0fa06e61-8c34-468a-b8a7-fc7e63bf7e52)
+
 
 Монтаж: 
 Схема соединений:
+
 Пайка проводов
 - Залудите контакты перед пайкой, а затем работайте по тому же принципу, как и при пайке шилда  
 После окончания пайки необходимо провести проверку (визуальный осмотр и тест мультиметром) (ВАЖНО: проверьте, нет ли пережатых проводов)
+![image](https://github.com/user-attachments/assets/de35dbd0-492c-492b-9d6c-5eb8d78bf625)
+![image](https://github.com/user-attachments/assets/2defbdcc-f68b-4a34-892a-fc94218b6f51)
+![image](https://github.com/user-attachments/assets/f270cfb1-d21b-4bdc-842e-68b68ae3c9c5)
 
 Шаг 3: Подсоединение нижней и верхней платформы:
 Соберите стойки из фанеры: 5 штук по 60 мм, 4 штуки по 130 мм (для этого понадобятся гайки М3 18 шт)
 Соедините нижнюю и верхнюю платформы с помощью стоек по 60 мм, винтов М3 (10шт)
+![image](https://github.com/user-attachments/assets/9d75c9f5-c1b5-4cfd-8cf2-11af3c26be24)
+![image](https://github.com/user-attachments/assets/ef5b23e3-8283-4068-adc9-62259d38eddd)
+![image](https://github.com/user-attachments/assets/f2c281f6-5179-434e-a022-b95a987e2805)
+![image](https://github.com/user-attachments/assets/67f2db67-e9ac-4b81-8ecf-74aa50b34ac0)
+
 
 Шаг 5: Тестовый запуск
 Подключите питание. 
 Проверьте работу моторов, питание и загрузку ESP.
+![image](https://github.com/user-attachments/assets/0a724450-055a-4aee-9a32-913ad60914eb)
+![image](https://github.com/user-attachments/assets/680014d7-5151-4f43-a8e2-11e9fd9dd73b)
+![Uploading image.png…]()
+
 
 Модуль II - программироварние ESP32
 
