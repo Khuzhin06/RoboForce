@@ -107,20 +107,33 @@ https://aliexpress.ru/item/1005004954771161.html?spm=a2g2x.detail.rcmdprod.7.6d1
 2 колеса
 Стойки для моторчиков
 ![image](https://github.com/user-attachments/assets/6dffb7dc-7430-4fb7-bbe7-f751f1ad7de7)
-
+![image](https://github.com/user-attachments/assets/e265e2c7-af5c-46d4-87a9-87122f94bcaa)
 
 Шаг 3: Сборка каркаса (первый слой)
 Установка мотор редукторов
 На валы мотор-редукторов установите колёса, закрепите их стопорными винтами.
+![image](https://github.com/user-attachments/assets/9f04b441-88c4-4640-9b63-5f7a0e0fc872)
+
 Найдите на нижней платформе посадочные места под моторы.
 Зафиксируйте каждый мотор винтами M3 х 50 мм (4 шт) и гаек М3 (4 шт) с помощью напечатанных стоек (обратите внимание на то, чтобы провода от энкодеров были выведены к центру платформы)
 Убедитесь, что при вращении колёса не задевают за край платформы и установлены ровно.
 Уделите внимание ровной установке колес, это обеспечит качественное движение без лишних корректировок.
+![image](https://github.com/user-attachments/assets/dd758873-1871-4d8a-adda-b4ce5c991556)
+![image](https://github.com/user-attachments/assets/e09da91f-3ad2-423f-b8ae-80c137f1c8ae)
+
 Установка OMNI колеса 
 Найдите на нижней платформе посадочные места под вырезанные опоры OMNI колеса.
 Установите их с помощью винтов М3 х 20 (4 шт) и гаек М3 (4 шт)
+![image](https://github.com/user-attachments/assets/01de58ea-3ed2-43d3-945e-6c7934180a54)
+![image](https://github.com/user-attachments/assets/226cf342-804d-4183-8706-759e79d707e0)
+
 В отверстие опоры вставьте винт М3 х 50, немного накрутите на него гайку М3
+![image](https://github.com/user-attachments/assets/57e0ae9f-9023-42b4-9d1f-cbbb0eee13f3)
+
 Установите OMNI колесо на винт и закрутите (с внутренней стороны колеса) гайками М3 (2шт)
+![image](https://github.com/user-attachments/assets/dcc521c2-1069-4f9c-9af2-20bf28b7fd74)
+![image](https://github.com/user-attachments/assets/5e42c6bb-d48d-4c51-aebf-f17f88c949b8)
+
 С внешней стороны опоры OMNI колеса зафиксируйте винт гайкой М3
 Убедитесь, что при вращении колёсо не задевает за край платформы.
 Установка драйвера моторов
