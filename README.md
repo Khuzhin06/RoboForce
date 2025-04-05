@@ -106,6 +106,8 @@ https://aliexpress.ru/item/1005004954771161.html?spm=a2g2x.detail.rcmdprod.7.6d1
 Основные детали:  
 2 колеса
 Стойки для моторчиков
+![image](https://github.com/user-attachments/assets/6dffb7dc-7430-4fb7-bbe7-f751f1ad7de7)
+
 
 Шаг 3: Сборка каркаса (первый слой)
 Установка мотор редукторов
