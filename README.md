@@ -19,7 +19,7 @@ I модуль - сборка робота
 
 | Компонент | Описание | Кол-во | Ссылка |
 | ------- | ------- | ------- | ------- |
-| Фанера | Толщина 6 мм, 600х600 | 1 лист |  |
+| Фанера | Толщина 6 мм, 600х600 | 1 лист | https://www.ozon.ru/product/fanera-9-mm-sort-3-3-600h600-mm-1869700011/?at=PjtJzQPQXcWjXyvmIxmY3MwS95o8Lzcq71D1mFPGRX8v&from_sku=1901529745&oos_search=false |
 | Винты М3 (+ гайки М3)| 30шт х 20мм, 4шт х 30мм, 4шт х 50мм | 38 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521183&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS |
 | Винты М2.5 (+ гайки М2.5) | 2шт х 10мм | 2 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521145&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS |
 | Винты М2 (+ гайки М2)| 4 шт х 10мм | 4 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521113&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS |
