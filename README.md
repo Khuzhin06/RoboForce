@@ -17,24 +17,24 @@ I модуль - сборка робота
 
 Материалы и комплектующие:  
 
-| Компонент | Описание | Кол-во | Ссылка |
-| ------- | ------- | ------- | ------- |
-| Фанера | Толщина 6 мм, 600х600 | 1 лист | https://www.ozon.ru/product/fanera-9-mm-sort-3-3-600h600-mm-1869700011/?at=PjtJzQPQXcWjXyvmIxmY3MwS95o8Lzcq71D1mFPGRX8v&from_sku=1901529745&oos_search=false |
-| Винты М3 (+ гайки М3)| 30шт х 20мм, 4шт х 30мм, 4шт х 50мм | 38 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521183&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS |
-| Винты М2.5 (+ гайки М2.5) | 2шт х 10мм | 2 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521145&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS |
-| Винты М2 (+ гайки М2)| 4 шт х 10мм | 4 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521113&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS |
-| Муфты  | Необходимы для закрепления колес на валах моторов | 2 | https://aliexpress.ru/item/1005004333022107.html?sku_id=12000028792464891&srcSns=sns_More&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing |
-| OMNI-колесо | Позволяет двигаться роботу в любом направлении ьез поворота основных колес | 1 | https://aliexpress.ru/item/1005008405743640.html?sku_id=12000045061747881&spm=a2g2w.productlist.search_results.11.5e415abdiln3SR |
-| Микрокомпьютер Raspberry pi 5 8gb | «Верхний уровень». Обрабатывает информацию, поступающую с ESP (“нижнего уровня»). Поддержка новейших интерфейсов. Отлично подходит к задачам компьютерного зрения, обработки трёхмерных данных с лидаров.  | 1 | https://sl.aliexpress.ru/p?key=0vxkGbg |
-| Микроконтроллер ESP32-WROOM-32 | «Нижний уровень». Собирает информацию с датчиков, энкодеров и отправляет на «верхний уровень». Подходит для сетевого проекта из-за встроенных Wi-Fi и Bluetooth, высокой производительности и большого объёма памяти. | 1 | https://sl.aliexpress.ru/p?key=7oxkGZr |
-| Моторы JGA25-370 77 RPM 12 B | Необходимы для передвижения робота. Используем 12В для упрощения питания. | 2 | https://aliexpress.ru/item/1005007793208347.html?sku_id=12000042220805718&spm=a2g2x.productlist.search_results.1.2ccd33e3p7kOox |
-| Драйвер моторов L298N |  | 1 | https://aliexpress.ru/item/1005007125159518.html?sku_id=12000042919988210&srcSns=sns_More&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing  |
-| Понижающие DC-DC преобразователи Readytosky FPV RC UBEC 5V 5A | Обеспечивает стабильное питание для микроконтроллера, микрокомпьютера, датчиков и драйверов. | 2 | https://aliexpress.ru/item/33019505937.html?sku_id=67198302173&srcSns=sns_More&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing |
-| Литиевые батареи JOUYM 18650, 2000 мАч | Обеспечивает питание робота. Обладают высокой плотностью энергии при относительно небольшом размере. Можно последовательно соединять несколько штук, добиваясь нужного напряжения и ёмкости. | 3 | https://sl.aliexpress.ru/p?key=ajxkGkw |
-| Держатель для батарей | Корпус для уставноки литейных батареек | 1 | https://aliexpress.ru/item/1005005586103501.html?sku_id=12000033652145033&spm=a2g2w.productlist.search_results.2.476f1d1frrOOTL |
-| Лидар SLAMTEC RPLIDAR C1 | «Глаза» робота, который смотрит на окружение, вычисляет расстояние, определяет препятствия впереди | 1 | https://sl.aliexpress.ru/p?key=fmxkGwR |
-| Штыревые штекеры и гнезда | Служат для удобства работы с микроконтроллером, его легкой замены - провода припаиваются не к самому МК, а к штекерам. | 2х2 | https://aliexpress.ru/item/1005004954771161.html?spm=a2g2x.detail.rcmdprod.7.6d172dc9ZId1M8&mixer_rcmd_bucket_id=UnknownMixerAbId&pdp_trigger_item_id=0_1005005576560025&ru_algo_pv_id=f712b2-61b690-22faee-72e977-1743876000&scenario=aerSimilarItemPdpRcmd&sku_id=12000031142220245&traffic_source=recommendation&type_rcmd=core |
-| Комплект разъемов | Нужны для соединения электронной схемы без пайки. | 1 | https://aliexpress.ru/item/1005007622670523.html?sku_id=12000041540582736&spm=a2g2w.productlist.search_results.10.2e79633bJ9Bw1E |
+| Компонент | Описание | Кол-во | Ссылка | Стоимость |
+| ------- | ------- | ------- | ------- |------- |
+| Фанера | Толщина 6 мм, 600х600 | 1 лист | https://www.ozon.ru/product/fanera-9-mm-sort-3-3-600h600-mm-1869700011/?at=PjtJzQPQXcWjXyvmIxmY3MwS95o8Lzcq71D1mFPGRX8v&from_sku=1901529745&oos_search=false | 370 |
+| Винты М3 (+ гайки М3)| 30шт х 20мм, 4шт х 30мм, 4шт х 50мм | 38 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521183&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS | 160 |
+| Винты М2.5 (+ гайки М2.5) | 2шт х 10мм | 2 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521145&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS | 150 |
+| Винты М2 (+ гайки М2)| 4 шт х 10мм | 4 | https://aliexpress.ru/item/1005005552471765.html?sku_id=12000033513521113&spm=a2g2w.productlist.search_results.15.7c287835NR6JBS | 120 |
+| Муфты  | Необходимы для закрепления колес на валах моторов | 2 | https://aliexpress.ru/item/1005004333022107.html?sku_id=12000028792464891&srcSns=sns_More&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing | 420 |
+| OMNI-колесо | Позволяет двигаться роботу в любом направлении ьез поворота основных колес | 1 | https://aliexpress.ru/item/1005008405743640.html?sku_id=12000045061747881&spm=a2g2w.productlist.search_results.11.5e415abdiln3SR | 1540 |
+| Микрокомпьютер Raspberry pi 5 8gb | «Верхний уровень». Обрабатывает информацию, поступающую с ESP (“нижнего уровня»). Поддержка новейших интерфейсов. Отлично подходит к задачам компьютерного зрения, обработки трёхмерных данных с лидаров.  | 1 | https://sl.aliexpress.ru/p?key=0vxkGbg | 10000 |
+| Микроконтроллер ESP32-WROOM-32 | «Нижний уровень». Собирает информацию с датчиков, энкодеров и отправляет на «верхний уровень». Подходит для сетевого проекта из-за встроенных Wi-Fi и Bluetooth, высокой производительности и большого объёма памяти. | 1 | https://sl.aliexpress.ru/p?key=7oxkGZr | 300 |
+| Моторы JGA25-370 77 RPM 12 B | Необходимы для передвижения робота. Используем 12В для упрощения питания. | 2 | https://aliexpress.ru/item/1005007793208347.html?sku_id=12000042220805718&spm=a2g2x.productlist.search_results.1.2ccd33e3p7kOox | 1200 |
+| Драйвер моторов L298N | Необходим для управления моторов, требующих высокое напряжение. | 1 | https://aliexpress.ru/item/1005007125159518.html?sku_id=12000042919988210&srcSns=sns_More&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing | 150 |
+| Понижающие DC-DC преобразователи Readytosky FPV RC UBEC 5V 5A | Обеспечивает стабильное питание для микроконтроллера, микрокомпьютера, датчиков и драйверов. | 2 | https://aliexpress.ru/item/33019505937.html?sku_id=67198302173&srcSns=sns_More&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing | 530 |
+| Литиевые батареи JOUYM 18650, 2000 мАч | Обеспечивает питание робота. Обладают высокой плотностью энергии при относительно небольшом размере. Можно последовательно соединять несколько штук, добиваясь нужного напряжения и ёмкости. | 3 | https://sl.aliexpress.ru/p?key=ajxkGkw | 460 |
+| Держатель для батарей | Корпус для уставноки литейных батареек | 1 | https://aliexpress.ru/item/1005005586103501.html?sku_id=12000033652145033&spm=a2g2w.productlist.search_results.2.476f1d1frrOOTL | 140 |
+| Лидар SLAMTEC RPLIDAR C1 | «Глаза» робота, который смотрит на окружение, вычисляет расстояние, определяет препятствия впереди | 1 | https://sl.aliexpress.ru/p?key=fmxkGwR | 6740 |
+| Штыревые штекеры и гнезда | Служат для удобства работы с микроконтроллером, его легкой замены - провода припаиваются не к самому МК, а к штекерам. | 2х2 | https://aliexpress.ru/item/1005004954771161.html?spm=a2g2x.detail.rcmdprod.7.6d172dc9ZId1M8&mixer_rcmd_bucket_id=UnknownMixerAbId&pdp_trigger_item_id=0_1005005576560025&ru_algo_pv_id=f712b2-61b690-22faee-72e977-1743876000&scenario=aerSimilarItemPdpRcmd&sku_id=12000031142220245&traffic_source=recommendation&type_rcmd=core | 200 |
+| Комплект разъемов | Нужны для соединения электронной схемы без пайки. | 1 | https://aliexpress.ru/item/1005007622670523.html?sku_id=12000041540582736&spm=a2g2w.productlist.search_results.10.2e79633bJ9Bw1E | 120 |
 
 2. Изготовление корпуса
 
@@ -179,4 +179,4 @@ I модуль - сборка робота
 Стоимость компонентов для сборки робота:
 
 За относительно небольшой бюджет можно также собрать достаточно надежного и производительного робота.
-Суммируя все цены комплектующих из I модуля 1 пункта, мы получаем итоговую стоимость нашей модели - 
+Суммируя все цены комплектующих из I модуля 1 пункта, мы получаем итоговую стоимость нашей модели - 22.600.
