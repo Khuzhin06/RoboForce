@@ -122,21 +122,20 @@ I МОДУЛЬ - СБОРКА РОБОТА
 Найдите на средней платформе посадочное место для блока питания (средняя часть платформы) 
 Закрепите блок с помощью винтов М3 (2 шт) и гаек М3 (2шт)  (ВАЖНО: провода должны выходить в центральную часть платформы)
 ![image](https://github.com/user-attachments/assets/b63c3e8f-8db2-4674-855f-9d3161c8c713)
-![image](https://github.com/user-attachments/assets/0fa06e61-8c34-468a-b8a7-fc7e63bf7e52)
 
 4. МОНТАЖ: 
 Схему соединений см. в "electronic scheme"
 
-Пайка проводов
+Пайка проводов, преобразователей, RGB ленты, драйвера, энкодеров, микроконтроллера.
 Залудите контакты перед пайкой, а затем работайте по тому же принципу, как и при пайке шилда  
 После окончания пайки необходимо провести проверку (визуальный осмотр и тест мультиметром) (ВАЖНО: проверьте, нет ли пережатых проводов)
 ![image](https://github.com/user-attachments/assets/de35dbd0-492c-492b-9d6c-5eb8d78bf625)
 ![image](https://github.com/user-attachments/assets/2defbdcc-f68b-4a34-892a-fc94218b6f51)
-![image](https://github.com/user-attachments/assets/f270cfb1-d21b-4bdc-842e-68b68ae3c9c5)
 
 Шаг 5: СОЕДИНЕНИЕ НИЖНЕЙ И СРЕДНЕЙ ПЛАТФОРМ
 Соберите стойки из фанеры: 5 штук по 60 мм, 4 штуки по 130 мм (для этого понадобятся гайки М3 18 шт)
 Соедините нижнюю и верхнюю платформы с помощью стоек по 60 мм, винтов М3 (10шт)
+![image](https://github.com/user-attachments/assets/f270cfb1-d21b-4bdc-842e-68b68ae3c9c5)
 ![image](https://github.com/user-attachments/assets/9d75c9f5-c1b5-4cfd-8cf2-11af3c26be24)
 ![image](https://github.com/user-attachments/assets/ef5b23e3-8283-4068-adc9-62259d38eddd)
 ![image](https://github.com/user-attachments/assets/f2c281f6-5179-434e-a022-b95a987e2805)
