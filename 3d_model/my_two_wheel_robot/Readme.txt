@@ -1,0 +1,1 @@
+Для запуска пакета его нужно скачать в директорию ros2_ws/src/. Затем в директории ros2_ws/ выполнить сборку пакета командой - colcon build, и подключив все зависимости - source install/setup.bash и source /opt/ros/jazzy/setup.bash , затем запустить сам пакет: ros2 launch my_two_wheel_robot two_wheel_robot.launch.py
