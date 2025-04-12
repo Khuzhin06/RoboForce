@@ -1,0 +1,27 @@
+# Параметры менеджера контроллеров ROS 2 Control
+controller_manager:
+  ros__parameters:
+    update_rate: 50               # Частота обновления контроллеров (Гц)
+    
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+      publish_rate: 50.0
+    # Описание контроллера дифференциального привода
+diff_drive_controller:
+  ros__parameters:
+    type: diff_drive_controller/DiffDriveController
+    left_wheel_names: ["left_wheel_joint"]
+    right_wheel_names: ["right_wheel_joint"]
+    wheel_separation: 0.26      # Расстояние между колесами, м
+    wheel_radius: 0.0325          # Радиус колес, м 
+    base_frame_id: base_link    # Имя фрейма базы робота
+    odom_frame_id: odom         # Имя фрейма одометрии
+    publish_rate: 50.0          # Частота публикации одометриии (Hz)
+    cmd_vel_timeout: 0.5        # Таймаут (сек) сброса скорости при отсутствии команд
+    # Лимиты скоростей/ускорений (пример):
+    linear.x.has_velocity_limits: true
+    linear.x.max_velocity: 2.0   # м/с
+    angular.z.has_velocity_limits: true
+    angular.z.max_velocity: 2.0  # рад/с
+      # Примечание: В ROS2 Jazzy контроллер ожидает TwistStamped, см. шаг 5
+    # Описание широковещательного контроллера состояний суставов
